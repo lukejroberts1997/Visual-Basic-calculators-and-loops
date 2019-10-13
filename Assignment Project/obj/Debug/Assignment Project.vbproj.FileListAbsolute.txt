@@ -1,0 +1,33 @@
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\bin\Debug\Assignment Project.exe.config
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\bin\Debug\Assignment Project.exe
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\bin\Debug\Assignment Project.pdb
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\bin\Debug\Assignment Project.xml
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment Project.vbprojResolveAssemblyReference.cache
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Form1.resources
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Resources.resources
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment Project.vbproj.GenerateResource.Cache
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment Project.exe
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment Project.xml
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment Project.pdb
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Form2.resources
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Form3.resources
+c:\users\robertsluke(student)\documents\visual studio 2015\Projects\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Form4.resources
+C:\Users\RobertsLuke(Student)\Dropbox\Programming Concepts\Assignment Project\Assignment Project\bin\Debug\Assignment Project.exe.config
+C:\Users\RobertsLuke(Student)\Dropbox\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.exe
+C:\Users\RobertsLuke(Student)\Dropbox\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.xml
+C:\Users\RobertsLuke(Student)\Dropbox\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.pdb
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\bin\Debug\Assignment Project.exe.config
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\bin\Debug\Assignment Project.exe
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\bin\Debug\Assignment Project.pdb
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\bin\Debug\Assignment Project.xml
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.vbprojResolveAssemblyReference.cache
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Form1.resources
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Form2.resources
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Form3.resources
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Form4.resources
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment_Project.Resources.resources
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.vbproj.GenerateResource.cache
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.vbproj.CoreCompileInputs.cache
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.exe
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.xml
+I:\old crap\year 1\Programming Concepts\Assignment Project\Assignment Project\obj\Debug\Assignment Project.pdb
